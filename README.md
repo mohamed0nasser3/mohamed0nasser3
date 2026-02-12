@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nasser</h1>
 
-<h3 align="center">💰 Artifical intelligence Engineering Student & Accounting Tech Enthusiast 💻</h3>
+<h3 align="center">🤖 AI Engineering Student & Tech Enthusiast 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Accounting+Student;Finance+%2B+Technology+Enthusiast;Python+Learner;Future+Financial+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Python+Learner;Future+AI+%2F+Data+Scientist" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Computer Science Student passionate about AI & Tech  
-🐍 Currently learning Python, Machine Learning & Data Analysis  
-📊 Interested in AI, Deep Learning & Data-driven Solutions  
-📈 Future Goal: AI / Data Scientist  
-💡 I love turning complex problems into smart tech solutions
-- 
-- 
-- 
-- 
+- 🐍 Currently learning Python, Machine Learning & Data Analysis  
+- 📊 Interested in AI, Deep Learning & Data-driven Solutions  
+- 📈 Future Goal: AI / Data Scientist  
+- 💡 I love turning complex problems into smart tech solutions
 
 ---
 
@@ -25,22 +21,22 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 💱 Currency Converter  
-🔹 🏠 Installment Calculator  
-🔹 📊 Expense Tracker  
-🔹 📈 Financial Dashboard  
-
-
+🔹 🤖 AI Chatbot  
+🔹 🧠 Machine Learning Model  
+🔹 📊 Data Analysis Dashboard  
+🔹 🖼️ Image Recognition Project  
 
 ---
 
@@ -65,7 +61,7 @@
 ## 🌍 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/mohamed-nasser-79b799387/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BF97ervFTSm%2BnpztuQ9Rn1A%3D%3D">
+  <a href="https://www.linkedin.com/in/mohamed-nasser-79b799387/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -76,9 +72,5 @@
 
 ---
 
-
-
----
-
 ### ⚡ Fun Fact
-Finance becomes powerful when combined with technology 🚀
+AI becomes powerful when combined with creativity & data 🚀
