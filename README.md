@@ -9,11 +9,15 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Accounting Student passionate about tech
-- 🐍 Currently learning Python & Data Analysis
-- 📊 Interested in Financial Automation & Analytics
-- 📈 Future Goal: Financial Data Analyst
-- 💡 I love turning financial problems into tech solutions
+- 🎓 Computer Science Student passionate about AI & Tech  
+🐍 Currently learning Python, Machine Learning & Data Analysis  
+📊 Interested in AI, Deep Learning & Data-driven Solutions  
+📈 Future Goal: AI / Data Scientist  
+💡 I love turning complex problems into smart tech solutions
+- 
+- 
+- 
+- 
 
 ---
 
@@ -36,7 +40,7 @@
 🔹 📊 Expense Tracker  
 🔹 📈 Financial Dashboard  
 
-(ضيف روابط مشاريعك هنا بعد ما ترفعها)
+
 
 ---
 
